@@ -1,8 +1,16 @@
 <h1>Active Directory Home Lab</h1>
 
 <h2>Description</h2>
-Create a basic home running lab with active directory. This projects shows how I created an internal server using Active Directory. You can experiment with Group Policies and security settings in a lab, understanding how they impact user and computer configurations. This knowledge is essential for maintaining secure and efficient network environments. An AD lab is an ideal place to practice scripting and automation using PowerShell. Employers often seek IT professionals who can automate repetitive tasks and streamline AD management. You can learn how to manage user accounts, permissions, and access controls effectively. This knowledge is essential for maintaining the integrity and security of an organization's data.
-Project endgoal as visual guide:  <br/>
+Project Overview:
+
+This project demonstrates the creation of a basic home lab using Active Directory, providing a controlled environment for experimentation with Group Policies, security settings, and automation using PowerShell. The goal is to gain hands-on experience in configuring and managing Active Directory, a fundamental component of network infrastructure.
+
+Key Objectives:        
+Azure Virtual Machines: Utilize Oracle VM to set up virtual machines, including Windows Server 2019 and Windows 10, forming the foundation of the lab.
+Active Directory Configuration: Configure the Windows Server 2019 VM as an Active Directory domain controller, establishing a secure internal network.
+Security Settings: Experiment with Group Policies and security settings within the lab to understand their impact on user and computer configurations.
+Automation: Utilize PowerShell for scripting and automation tasks, enhancing proficiency in streamlining Active Directory management.
+User Account Management: Learn how to effectively manage user accounts, permissions, and access controls, critical for maintaining data integrity and security.
 <img src="https://i.imgur.com/w3WotSm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
