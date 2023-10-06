@@ -83,7 +83,7 @@ Create new VM with same settings as before however instead of chosing server 201
 <img src="https://i.imgur.com/uEJYToz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-You can now connect to the internal network and if succesfull it ipconfig should look similar to this. This shows an internal network has been
+You can now connect to the internal network and if succesfull the ipconfig should look similar to this. This shows an internal network has been
   created and clients or employees can now succesfully connect to the internet:  <br/>
 <img src="https://i.imgur.com/7cfHtUy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
